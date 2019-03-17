@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SlideChara</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name1">Daenerys Targaryen</string>
+    <string name="char1">
+        "I spent my life in foreign lands. So many men have tried to kill me, I don't remember all their names.
+        I have been sold like a broodmare. I've been chained and betrayed, raped and defiled.
+        Do you know what kept me standing through all those years in exile? Faith. Not in any gods. Not in myths and
+        legends. In myself.
+        In Daenerys Targaryen."
+    </string>
+    <string name="name2">Khal Drogo</string>
+    <string name="char2" tools:ignore="StringEscaping">"And to my son, the stallion who will mount the world, I will also pledge a gift.
+        I will give him the iron chair that his mother's father sat upon. I will give him Seven Kingdoms. I, Drogo, will do this.
+        I will take my Khalasar west to where the world ends and ride wooden horses across the black salt water as no Khal has done before!"
+    </string>
+
+    <string name="name3">Oberyn Martell</string>
+    <string name="char3" tools:ignore="StringEscaping,TypographyEllipsis">
+        "Then everyone is missing half the world's pleasure. The Gods made that (motions to Ellaria and Marei), and it delights me.
+        The Gods made this (spanks Olyvar's bottom), and it delights me.
+        When it comes to war I fight for Dorne, when it comes to love... I don't choose sides."
+    </string>
+</resources>
